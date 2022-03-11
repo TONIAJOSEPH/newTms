@@ -1,0 +1,14 @@
+.cardimge{
+    /* margin-left: 5px; */
+    border: 1px solid black;
+    padding: 5px;
+}
+.cardname{
+    /* margin-left: 150px; */
+}
+.cardmaincontent{
+   
+    margin-left: 120px;
+    margin-top: -150px;
+    /* padding-right: -20px; */
+}
